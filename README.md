@@ -27,6 +27,7 @@ password = STDIN.noecho(&:gets).chomp
 ### Example 1:
 
 Password: 'abc'
+
 Program output:
 
 ```
@@ -40,6 +41,7 @@ Password has a total of 4 violations.
 ### Example 2:
 
 Password: 'App1ePi3'
+
 Program output:
 
 ```
@@ -50,6 +52,7 @@ Password has a total of 1 violations.
 ### Example 3:
 
 Password: 'SantA_C1au$3'
+
 Program output:
 
 ```
