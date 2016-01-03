@@ -7,7 +7,7 @@ You have been hired by Initech to tighten up their security. Your first assignme
 * has a length of 8 to 16 characters
 * contains at least 2 digits
 * contains at least 2 uppercase letters and at least 2 lowercase letters
-* contains at least 1 of the following _special_ characters: {!, @, #, $, ^, &, ?, <, >}
+* contains at least 1 of the following _special_ characters: !, @, #, $, ^, &, ?, <, >
 
 If a password does not meet any of the above requirements, your program should list the rule or rules that are not satisfied.
 
