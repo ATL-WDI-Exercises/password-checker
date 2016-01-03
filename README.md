@@ -2,7 +2,7 @@
 
 ## Description
 
-Write a program that verifies that a given password is secure, i.e. that it conforms to the following corporate standards for passwords:
+You have been hired by Initech to tighten up their security. Your first assignment is to write a program to verify that a given password is secure, i.e. that it conforms to the following corporate standards for passwords:
 
 * has a length of 8 to 16 characters
 * contains at least 2 digits
